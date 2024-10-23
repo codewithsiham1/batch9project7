@@ -1,0 +1,63 @@
+[
+        {
+            "RecipeImage": "https://i.ibb.co.com/vcR9y2d/Rectangle-20170-1.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R001",
+            "RecipeName": "Spicy Garlic Shrimp",
+            "ShortDescription": "Quick and flavorful shrimp dish with a kick.",
+            "Ingredients": ["500 g shrimp", "3 cloves garlic", "2 tbsp olive oil", "1 tsp chili flakes"],
+            "PreparingTime": "20 min",
+            "Calories": "280 calories"
+        },
+        {
+            "RecipeImage": "https://i.ibb.co.com/vhJHZZV/Rectangle-20170.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R002",
+            "RecipeName": "Creamy Mushroom Pasta",
+            "ShortDescription": "A rich and creamy pasta dish that’s comforting and delicious.",
+            "Ingredients": ["300 g pasta", "200 g mushrooms", "100 ml cream", "50 g parmesan cheese"],
+            "PreparingTime": "25 min",
+            "Calories": "450 calories"
+        },
+        {
+            "RecipeImage": "https://i.ibb.co.com/vcR9y2d/Rectangle-20170-1.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R003",
+            "RecipeName": "Fresh Vegetable Salad",
+            "ShortDescription": "A refreshing salad packed with seasonal veggies.",
+            "Ingredients": ["100 g lettuce", "50 g cherry tomatoes", "1 cucumber", "30 g feta cheese"],
+            "PreparingTime": "15 min",
+            "Calories": "150 calories"
+        },
+        {
+            "RecipeImage": "https://i.ibb.co.com/vhJHZZV/Rectangle-20170.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R004",
+            "RecipeName": "Chocolate Chip Cookies",
+            "ShortDescription": "Classic cookies loaded with chocolate chips.",
+            "Ingredients": ["200 g flour", "100 g sugar", "100 g chocolate chips", "1 egg"],
+            "PreparingTime": "30 min",
+            "Calories": "200 calories"
+        },
+        {
+            "RecipeImage": "https://i.ibb.co.com/vcR9y2d/Rectangle-20170-1.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R005",
+            "RecipeName": "Thai Green Curry",
+            "ShortDescription": "A fragrant and spicy curry with coconut milk.",
+            "Ingredients": ["400 g chicken", "200 ml coconut milk", "2 tbsp green curry paste", "100 g bell peppers"],
+            "PreparingTime": "40 min",
+            "Calories": "350 calories"
+        },
+        {
+            "RecipeImage": "https://i.ibb.co.com/vhJHZZV/Rectangle-20170.png",
+            "Cover": "https://i.ibb.co.com/Ph3srJX/Rectangle-1-1.png",
+            "RecipeID": "R006",
+            "RecipeName": "Banana Pancakes",
+            "ShortDescription": "Fluffy pancakes infused with ripe bananas.",
+            "Ingredients": ["200 g flour", "2 bananas", "2 eggs", "250 ml milk"],
+            "PreparingTime": "20 min",
+            "Calories": "320 calories"
+        }
+    
+    ]
